@@ -11,3 +11,5 @@
 **/.test
 /.appanalyzer
 /tools/.runtime-layout.json
+__pycache__/
+*.pyc
