@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "校园线索推理与多结局探索应用"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "雾校档案主调查界面"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "雾校档案"
+    }
+  ]
+}
